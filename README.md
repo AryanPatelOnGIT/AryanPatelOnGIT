@@ -1,7 +1,6 @@
-# Hey, I'm Aryan 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&width=435&lines=Tech+guy+going+hardware+mode;Breaking+things+%26+learning+why)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&width=435&lines=Hey+There,;Showing+Aryan's+Work!)](https://git.io/typing-svg)
 
 ---
 
