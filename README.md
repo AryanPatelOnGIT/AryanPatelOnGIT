@@ -8,9 +8,9 @@
 
 ## About Me
 
+- Your Friendly neighborhood Engineer
 - Software developer expanding into **electronics and embedded systems**
-- Focused on where software meets hardware, from firmware logic to physical components
-- Currently studying circuits, microcontrollers, and embedded development
+- Currently Pursuing Computer Science and Engineering 
 
 ---
 
@@ -19,15 +19,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Hardware](https://img.shields.io/badge/Hardware-555555?style=flat&logo=files&logoColor=white)
 
 ---
 
-## Goals
+## WorkTree
 
-- [ ] Interface code with hardware (GPIO, sensors, communication protocols)
-- [ ] Deliver an end-to-end project combining software and hardware
+- [ ] Currently working on EKI 
+- [ ] UI Engineer For Shazlo
 
 ---
 
