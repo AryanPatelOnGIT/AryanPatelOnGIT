@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=Hi,+I'm+Aryan+Patel;Software+%C3%97+Hardware)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=Hi,+I'm+Aryan+Patel)](https://git.io/typing-svg)
 
 </div>
 
